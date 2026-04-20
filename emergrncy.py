@@ -50,7 +50,6 @@ while True:
 
         print("Data stored securely in binary file!")
 
-    # 🔓 VIEW DATA
     elif choice == '2':
         search_user = input("Enter username: ")
 
